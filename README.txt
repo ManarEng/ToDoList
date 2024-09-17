@@ -34,9 +34,4 @@ Java SE versions and where to obtain them, reference the Java SE support page
 If you find any issues with the starter project or have recommendations to improve it, open an 
 issue in the starter GitHub repo (https://github.com/OpenLiberty/start.openliberty.io).
 
-***********************************************************************************************************
-Hi there ! I'm happy to start this project.. Tuesday 2 April 2024 9:33 PM 
 
-Let's Never Give Up on this project ok?
-
-==> SPRINT 1 : Authentication*
